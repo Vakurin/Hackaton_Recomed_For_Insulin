@@ -1,0 +1,1233 @@
+eat_id,Food name,CHO (g/100g),GI value,GL,GI confidence level
+1,Goats milk soft cheese. full fat. white rind,1.0,34.0,0.0,3
+2,White bread. West Indian,58.8,72.0,42.0,3
+3,White bread. aerated. slimmers,50.9,72.0,37.0,3
+4,Homemade biscuits. rubbing-in method,61.7,63.0,39.0,3
+5,Chickpeas/Bengal gram. raw,50.0,28.0,14.0,2
+6,Chinese herb soup. mixture 3. ching bo leung. whole content,3.7,70.0,3.0,5
+7,Pickle. chow chow. sour,3.5,45.0,2.0,4
+8,Pea fresh curry,8.8,45.0,4.0,4
+9,Sag. cooked dish,5.5,70.0,4.0,5
+10,Milk cow's. powder. skimmed,52.8,45.0,24.0,4
+11,Goats milk soft cheese,1.0,34.0,0.0,3
+12,Medium fat soft cheese,3.1,34.0,1.0,2
+13,Calcium-fortified milk. Calcia,6.2,34.0,2.0,3
+14,Calcium-fortified milk. Vital,5.2,34.0,2.0,3
+15,Low-fat spread,0.5,70.0,0.0,5
+16,Very low fat spread,3.6,70.0,3.0,5
+17,Fish based meal,9.3,70.0,7.0,5
+18,Pasta based meal,8.5,34.0,3.0,3
+19,Pour over sauce. vegetable based,73.4,45.0,33.0,4
+20,Pour over sauce. vegetable based. reconstituted,18.4,45.0,8.0,4
+21,Cereal and milk based desserts,72.0,55.0,40.0,3
+22,Cereal and milk based desserts. reconstituted,20.6,55.0,11.0,3
+23,Asda slim break minestrone soup (powder dry),63.0,70.0,44.0,5
+24,Twister ice lolly,19.0,45.0,9.0,4
+25,3 Cheese Tortellini (Sainsburys),28.7,45.0,13.0,4
+26,Alpen muesli original (Weetabix),66.0,55.0,36.0,2
+27,American Pizza with pepperoni and onion,29.5,51.0,15.0,3
+28,Anchor half fat butter,0.8,70.0,1.0,5
+29,Apricot and Chocolate chip cereal bar (Boots Shapers),70.0,61.0,43.0,3
+30,Apple & Cinnamon Oat So Simple (27g),68.0,58.0,39.0,3
+31,Asparagus Soup (Covent Garden),4.0,45.0,2.0,4
+32,Asparagus soup (Tesco),5.1,45.0,2.0,4
+33,Chicken and leek soup (Bachelors),6.7,45.0,3.0,4
+34,Bacon Potato Salad (Tesco),8.3,45.0,4.0,4
+35,plain bagels (Tesco),41.7,72.0,30.0,2
+36,Baguette (Tesco),41.1,95.0,39.0,2
+37,Banana and Toffee Spread (Asda),54.3,70.0,38.0,5
+38,banoffee pie,36.7,70.0,26.0,5
+39,barbeque sauce (Tesco),28.0,70.0,20.0,5
+40,BBQ Sauce (HP),36.7,70.0,26.0,5
+41,beef and vegetable soup,6.3,45.0,3.0,4
+42,Bernard Mathews wafer thin turkey ham,3.5,70.0,2.0,5
+43,Bingo biscuit,57.6,63.0,36.0,3
+44,BioPot - wholegrain (strawberry),14.4,45.0,6.0,3
+45,biopot yogurt,15.4,45.0,7.0,4
+46,Blue cheese salad dressing fat free,9.2,34.0,3.0,3
+47,Blueberry Muffin,39.7,59.0,23.0,2
+48,Bolognese sauce- Dolmio (light),7.1,45.0,3.0,3
+49,Bourbon biscuits (Pennywise),71.2,55.0,39.0,3
+50,Bread Sticks (cheese)  Tesco,67.2,72.0,48.0,3
+51,Breaded haddock fillet (ovenbaked),14.6,38.0,6.0,3
+52,Broccoli cheese & tomato quiche (Sainsbury's),16.3,63.0,10.0,4
+53,Brown Soda Bread,43.6,92.0,40.0,3
+54,Butter Biscuits (Simmers),58.0,63.0,37.0,3
+55,Butteries (Asda),49.5,70.0,35.0,5
+56,Cadbury Curly Wurly,69.9,63.0,44.0,4
+57,Cadbury's Boost (Cadbury's),55.8,63.0,35.0,4
+58,Cadbury's Caramel ice cream,30.6,61.0,19.0,3
+59,Cadbury's chocolate roll (Cadbury's),52.9,38.0,20.0,3
+60,Cadbury's Fudge,71.7,63.0,45.0,4
+61,Cadburys high lights,44.6,63.0,28.0,4
+62,cadbury's strawberry mini rolls,56.1,38.0,21.0,3
+63,Cadbury's Toffee mini rolls,59.1,38.0,22.0,3
+64,campbells brocolli and cauliflower soup,5.9,45.0,3.0,4
+65,Cantonese Chicken Rice bowl (M&S),19.2,45.0,9.0,4
+66,Cappuccino (Kruger packet) - vanilla,56.3,70.0,39.0,5
+67,Caramel bar (Boots shapers range),65.0,65.0,42.0,3
+68,Caramel Chocolate bar (Cadburys),61.3,63.0,39.0,4
+69,Caramel Log Wafer (Tunnocks),64.3,63.0,41.0,3
+70,carbonara sauce,5.3,34.0,2.0,3
+71,carrot and corriander soup - fresh,2.7,45.0,1.0,4
+72,Carrot and Houmas sandwich (M&S),18.2,45.0,8.0,4
+73,Carrot cake (Entenmann's ),47.5,63.0,30.0,2
+74,Chargrilled Vegetable Pizza (M&S),21.0,51.0,11.0,3
+75,Chasseur Sauce (Homepride),9.2,70.0,6.0,5
+76,Cheddar cheese with pickle sandwich(Green meadow foods),30.1,72.0,22.0,3
+77,cheddars,54.4,63.0,34.0,3
+78,Cheese & onion pasty  (Village Cross),21.2,63.0,13.0,4
+79,Cheese & Onion sandwich spread (Asda),4.7,34.0,2.0,3
+80,Cheese and Bacon Baguette: Ready to cook (Sainsburys),37.8,95.0,36.0,3
+81,Cheese and onion quiche (Tesco),18.1,45.0,8.0,4
+82,cheese and onion quiche Asda,20.1,45.0,9.0,4
+83,cheese and tomato pizza,28.6,51.0,15.0,3
+84,Cheese Toasted Pocket Sandwich (Pilsbury),31.0,72.0,22.0,3
+85,cheese&onion pastie,28.2,45.0,13.0,4
+86,Chewy cereal bar (Tesco),62.6,70.0,44.0,3
+87,Chewy nut & chocolate cereal bar - Safeway,56.0,70.0,39.0,3
+88,chicago town pizza,25.3,51.0,13.0,3
+89,Chicken & bacon pasta gratin (Somerfield),8.9,63.0,6.0,4
+90,Chicken & broccoli pasta (Lean Cuisine),13.2,45.0,6.0,4
+91,Chicken & chinese mushroom in oyster sauce with egg fried rice (Safeway),12.4,45.0,6.0,4
+92,Chicken & mushroom slice (Tesco),21.3,63.0,13.0,4
+93,Chicken & Veg instant soup (low cal - Tescos) - dry,57.3,45.0,26.0,4
+94,Chicken & Vegetable Big Soup (Heinz),7.3,45.0,3.0,4
+95,chicken and bacon pizza,26.0,51.0,13.0,3
+96,Chicken and Mushroom Rice (Sharwood's),12.7,63.0,8.0,4
+97,chicken and pepperoni pizza,25.1,51.0,13.0,3
+98,Chicken and Stuffing Sandwich (M&S),20.2,72.0,15.0,3
+99,chicken breasts with garlic mushrooms,2.5,45.0,1.0,4
+100,Chicken burgers in breadcrumbs,21.6,38.0,8.0,3
+101,Chicken curry (Bird's Eye),21.2,53.0,11.0,3
+102,Chicken Fajitas (Tescos),14.2,42.0,6.0,3
+103,Chicken in gravy (Bird's eye),2.8,53.0,1.0,3
+104,Chicken Jalfrezi,4.8,53.0,3.0,3
+105,Chicken madras (Tesco),3.6,53.0,2.0,3
+106,Chicken masala with rice (Sutherland),17.9,34.0,6.0,2
+107,Chicken pate,3.0,70.0,2.0,5
+108,Chicken Salad (Tesco),14.6,70.0,10.0,5
+109,Chicken salad sandwich (Tesco),17.9,72.0,13.0,3
+110,chicken salad-prepacked,4.6,45.0,2.0,4
+111,Chicken supreme with vegetable rice (ASDA),14.8,45.0,7.0,4
+112,Chicken tikka snack salad (Tesco),10.4,70.0,7.0,5
+113,Chicken Tonight - honey & mustard,15.1,70.0,11.0,5
+114,Chicken broccoli & pasta bake (ASDA),27.0,45.0,12.0,4
+115,Chiken Tikka Masala (Tesco),11.4,53.0,6.0,3
+116,Chilli con carne with rice (Safeway),14.2,45.0,6.0,4
+117,choc chip cookies,62.8,63.0,40.0,4
+118,Chocolate Caramel Shortbread,57.8,45.0,26.0,4
+119,Chocolate chip bar (Mr Kipling),45.3,38.0,17.0,3
+120,Chocolate Chip Cereal (Asda),67.3,55.0,37.0,3
+121,chocolate chip muffins (Tesco),47.5,53.0,25.0,2
+122,chocolate digestives - low fat (Tesco),69.0,63.0,43.0,3
+123,Chocolate Fudge Brownie cake bar (Mr Kipling),47.9,38.0,18.0,3
+124,Chocolate Fudge Cake (Marks & Spencer),50.8,38.0,19.0,3
+125,Chocolate Gateaux,37.3,38.0,14.0,3
+126,Chocolate layer cake (Somerfield),45.4,38.0,17.0,3
+127,Chocolate Mousse (95%fat-free Cadbury's),17.3,45.0,8.0,3
+128,chocolate nut brownies,61.2,38.0,23.0,3
+129,chunky vegetable and pasta sauce (Tesco),7.8,45.0,4.0,4
+130,Ciabatta Rolls,48.9,72.0,35.0,3
+131,Cinnamon Grahams (cereal),79.6,70.0,56.0,5
+132,Citrus promise desert (Shape),19.4,45.0,9.0,4
+133,Club biscuit (Jacobs) ,61.6,63.0,39.0,3
+134,Clusters (Nestle),70.2,72.0,51.0,3
+135,cocktail sauce,20.0,70.0,14.0,5
+136,coconut trim bar (Sainsburys),74.5,70.0,52.0,3
+137,Cod in butter sauce frozen,5.1,70.0,4.0,5
+138,Cod Mornay (Asda),2.6,70.0,2.0,5
+139,Coleslaw (Tesco's) ,6.3,45.0,3.0,4
+140,cranberry and raspberry juice,13.3,59.0,8.0,3
+141,Cranberry juice (Ocean Spray),13.1,56.0,7.0,2
+142,Cream slices (Mr Kipling) v10,21.1,42.0,9.0,3
+143,creamed vegetable soup instant (Tesco),52.4,45.0,24.0,4
+144,Creamy Chicken Pasta Snack Pot (Made Up),15.0,45.0,7.0,4
+145,Crinklin Mini Cheddars,55.4,34.0,19.0,3
+146,crisp mint chocolates,66.7,45.0,30.0,4
+147,crisp salad,2.8,70.0,2.0,5
+148,Crisps  80% fat free (Golden Wonder),64.5,54.0,35.0,2
+149,crumbed ham,0.5,70.0,0.0,5
+150,crunch corner (muller) choc raisins,22.0,53.0,12.0,3
+151,Crunchie (Cadbury's),70.9,63.0,45.0,4
+152,Crunchy bran (Weetabix),53.3,74.0,39.0,3
+153,Crunchy oat cereal (Somerfield),64.9,77.0,50.0,3
+154,Cumberland Pie (Tesco) ,10.9,29.0,3.0,2
+155,Custard style yoghurt,19.9,38.0,8.0,3
+156,Dairy Milk,56.8,43.0,24.0,3
+157,Dairylea light v10,7.6,30.0,2.0,3
+158,Deep pan vegetable pizza (Somerfield),29.0,51.0,15.0,3
+159,diet 7 up,0.2,70.0,0.0,5
+160,diet lilt,0.5,70.0,0.0,5
+161,Doritos corn chips (Walkers),62.0,54.0,33.0,3
+162,Double chocolte gateau,38.3,38.0,15.0,3
+163,double decker,65.3,63.0,41.0,3
+164,Dried Papaya,56.3,59.0,33.0,2
+165,Economy Coleslaw (Sainsbury's),7.1,45.0,3.0,4
+166,Edam Cheese with Apple and Celery sandwich(Green meadow foods),25.3,72.0,18.0,3
+167,Viennese Whirls (Lyons),49.8,45.0,22.0,4
+168,Egg mayonaise sandwich (Boots),15.0,72.0,11.0,3
+169,Falafel (Goodlife foods),32.6,45.0,15.0,4
+170,Fig rolls v9,67.7,38.0,26.0,3
+171,Fish cuisine bake - Italiano (Birds Eye),3.6,70.0,3.0,5
+172,Flake Twin Dessert (cadburys)v10,21.8,45.0,10.0,4
+173,flora light,3.7,70.0,3.0,5
+174,Foccacia Bread (Tesco),44.8,51.0,23.0,3
+175,four cheese pasta sauce,6.8,34.0,2.0,3
+176,foxs choc chip cookies,61.1,63.0,38.0,3
+177,Fox's classic biscuits,62.3,63.0,39.0,3
+178,Fruit and nut bar (Cadbury's),55.3,45.0,25.0,3
+179,Fruit Compot (Tesco),24.4,45.0,11.0,4
+180,fruit compote (Morton),17.0,45.0,8.0,4
+181,Fruit Corner (Muller),17.1,46.0,8.0,3
+182,Fruitibix (Weetabix),71.4,75.0,54.0,3
+183,Fuse Cadbury (not BCCCA),58.2,45.0,26.0,4
+184,Galaxy ripple ,51.5,43.0,22.0,3
+185,Garlic Bread ,42.1,95.0,40.0,3
+186,German crisp bread,58.1,64.0,37.0,3
+187,ginger cake,58.8,46.0,27.0,3
+188,Ginger cake (McVities),57.9,46.0,27.0,2
+189,go ahead baked corn chips (McVities),79.2,54.0,43.0,3
+190,Go Ahead Cake Bars (McVities),63.9,46.0,29.0,3
+191,Go ahead crinklins spring onion,68.7,63.0,43.0,3
+192,Go Ahead Fruit-ins - Apricot (McVities),76.3,70.0,53.0,3
+193,go ahead ginger biscuits,82.9,63.0,52.0,4
+194,golden cruch creams,63.6,63.0,40.0,4
+195,Golden lights crisps (Golden Wonder),64.1,54.0,35.0,2
+196,Lightly Salted Crisps (Golden Wonder),64.3,54.0,35.0,2
+197,Granulated Canderel ,93.1,70.0,65.0,5
+198,Grape Nuts,80.0,70.0,56.0,5
+199,green meadow chicken tikka sandwich v7,21.3,72.0,15.0,3
+200,Guacamole (safeway) ,6.3,45.0,3.0,4
+201,Haddock Mornay (Tesco),4.4,34.0,1.0,3
+202,Ham & cheese slice (Tesco),17.9,72.0,13.0,3
+203,Ham & mushroom pizza (thin) - Tescos,25.6,51.0,13.0,3
+204,Ham and Mushroom Pizza (Somerfield),26.7,51.0,14.0,3
+205,hash browns,19.5,85.0,17.0,4
+206,heinz chicken and veg soup,6.1,45.0,3.0,4
+207,Heinz mild mustard pickle (Heinz),26.7,70.0,19.0,5
+208,heinz thick country veg soup,8.0,45.0,4.0,4
+209,Heinz treacle sponge pudding v10,48.7,46.0,22.0,3
+210,High Lights Chocolate Drink: Dry Powder (Cadburys),43.1,43.0,19.0,3
+211,Homepride Low fat tomato and Tarragon sauce,7.7,70.0,5.0,5
+212,Honey Nut Cornflakes (Tesco),78.8,72.0,57.0,2
+213,Honeycomb ice cream (Mackies) ,24.9,61.0,15.0,3
+214,Hoolahoops crisps,58.7,54.0,32.0,2
+215,Hot and Krumbly (with vitamins),61.0,70.0,43.0,5
+216,Hot and spicy chicken steaks (Farmfood),15.3,45.0,7.0,3
+217,Hot and spicy chinese chicken with rice (Birds eye),22.0,45.0,10.0,4
+218,Hot Chocolate Powder LF (Asda),68.5,43.0,29.0,3
+219,Humous and green salad s/wich (Tesco),44.9,45.0,20.0,4
+220,Indian chicken stir fry (Oriental Express),16.9,45.0,8.0,4
+221,Indian Takeaway (Tesco),15.2,70.0,11.0,5
+222,Jam Roly Poly with custard (Sainsburys),23.8,38.0,9.0,3
+223,Jelly Babies,78.0,78.0,61.0,3
+224,Jordan's country muesli unsweet,63.6,59.0,38.0,3
+225,Jordans crunchy oat cereal (Raisin and Almond),68.9,59.0,41.0,3
+226,kale boiled,5.6,45.0,3.0,4
+227,kettle crisps,57.9,54.0,31.0,2
+228,KFC Chicken Sandwich (Orig.Recipe),22.1,72.0,16.0,3
+229,korma sauce (Homepride),9.1,45.0,4.0,4
+230,Korma Sauce (M&S),6.0,45.0,3.0,4
+231,Korma Style Chicken Satay (Iceland),4.0,70.0,3.0,5
+232,Laughing cow cheese spread (light),6.5,34.0,2.0,3
+233,Lemon and lime crush,12.3,66.0,8.0,3
+234,lemon chicken sauce (Homepride),13.7,70.0,10.0,5
+235,lemon steamed sponge pudding,59.0,70.0,41.0,5
+236,Lemon&Lime Squash - No Added Sugar (ASDA),0.3,70.0,0.0,5
+237,Lemonade low calorie (Tesco),0.4,70.0,0.0,5
+238,Lentil and Bacon Soup (Safeway),9.7,44.0,4.0,2
+239,LF custard cream biscuits (Asda),71.4,63.0,45.0,3
+240,LF Rich Tea Biscuit (Tesco),75.7,55.0,42.0,2
+241,light soy sauce,10.1,70.0,7.0,5
+242,Lion Bar (Nestle),64.7,45.0,29.0,4
+243,Louisiana Style Chicken (Tesco),3.1,70.0,2.0,5
+244,Low fat soft cheese (Shape),9.3,34.0,3.0,3
+245,Lucozade sport,6.4,95.0,6.0,2
+246,Calamari in batter  (Marks & Spencer),17.0,70.0,12.0,5
+247,Tomato and Herb salad bowl (Marks & Spencer),4.3,45.0,2.0,4
+248,Vegetable Curry  (Marks & Spencer),7.9,45.0,4.0,4
+249,Macaroni & Cheese Pies (Countryside),28.0,45.0,13.0,4
+250,mackerel in tomato sauce,3.3,70.0,2.0,5
+251,Magnum ice cream lolly (Walls),26.7,45.0,12.0,4
+252,malt biscuits,65.7,63.0,41.0,4
+253,Maltesers (Mars),61.4,63.0,39.0,3
+254,Maple and pecan crisp cereal (Tesco),62.2,70.0,44.0,5
+255,Maple walnut cake - 95% fat free,49.8,63.0,31.0,4
+256,marinated tofu pieces,1.7,70.0,1.0,5
+257,Mc Cain Micro Chips ,27.4,75.0,21.0,3
+258,Mc Donald's Fillet O' Fish ,45.0,72.0,32.0,3
+259,McVities Mini Cookies,66.7,63.0,42.0,3
+260,Mediterranean Style Salad (Safeway),3.0,45.0,1.0,4
+261,Mexican Fajita Stir In Sauce,25.1,70.0,18.0,5
+262,mexican sauce- chicken tonight,11.7,45.0,5.0,4
+263,milk chocolate raisins ,62.7,45.0,28.0,4
+264,Minced beef & macaroni cheese (Saninsbury's),14.1,53.0,7.0,3
+265,Minced beef casserole (Sainsbury's),8.7,53.0,5.0,3
+266,Mini Cheddars,54.4,63.0,34.0,3
+267,Minted pea soup (safeway),5.2,45.0,2.0,4
+268,Mixed bean salad (Asda),13.7,52.0,7.0,3
+269,Mixed beans in spicy pepper (Sainsbury's),15.3,45.0,7.0,4
+270,Mixed crisp salad (Tesco),2.8,45.0,1.0,4
+271,Mixed fruit pieces (Fruitini) ,13.0,55.0,7.0,3
+272,mixed veg stir-fry,6.7,45.0,3.0,4
+273,Monster munch (cheesy),60.4,63.0,38.0,3
+274,Monster munch (flamin hot) ,60.4,63.0,38.0,3
+275,Monster munch (pickled onion) ,60.4,63.0,38.0,3
+276,mr kipling mini sponge cakes,53.7,63.0,34.0,4
+277,Mueller light fruit yoghurt (Mueller),7.8,46.0,4.0,3
+278,Muller candy corner mississippi mud pie,26.3,70.0,18.0,5
+279,muller light yogurt ,8.5,46.0,4.0,3
+280,Mullerrice ,19.0,59.0,11.0,3
+281,muller thick and creamy yoghurt,11.3,46.0,5.0,3
+282,Mushroom & garlic kiev (M&S),18.0,45.0,8.0,4
+283,Mushroom pie (Tesco),21.7,45.0,10.0,4
+284,Mushroom risotto (Tesco),17.2,69.0,12.0,3
+285,Nik Naks,18.9,63.0,12.0,3
+286,Nutrigrain bar chocolate (Kelloggs),67.0,63.0,42.0,4
+287,Nutrigrain baro ther flavours (Kelloggs),69.0,70.0,48.0,3
+288,Nutty Crunch (Alpen),64.7,70.0,45.0,3
+289,Oatbran (Mornflake),52.5,47.0,25.0,2
+290,Olive Spread (Tesco),1.2,70.0,1.0,5
+291,Onion rings,58.8,45.0,26.0,4
+292,onion rings in batter,30.5,45.0,14.0,4
+293,Optima (Kelloggs),69.0,60.0,41.0,3
+294,Option chocolate powder  LF,48.4,41.0,20.0,2
+295,Orange Dime bar,58.5,70.0,41.0,5
+296,Orange sultana crispy slice (Go Ahead) ,75.7,70.0,53.0,3
+297,oriental chicken stir fry,8.5,45.0,4.0,4
+298,Oven chips - low fat (McCains),27.5,75.0,21.0,3
+299,Paella (Vesta),23.7,63.0,15.0,4
+300,Party Sushi (M&S),24.8,52.0,13.0,2
+301,Pasta and Veg Bake (Somerfield),11.0,45.0,5.0,4
+302,Pasta bake - tomato & herb sauce (Homepride),7.2,45.0,3.0,4
+303,Pasta 'n' sauce (Batchelors),65.0,45.0,29.0,4
+304,Pasta sauce (traditional style) ,7.7,45.0,3.0,4
+305,Pasta with ham and broccoli (Asda),15.2,45.0,7.0,4
+306,Peach slices in fruit juice (Del Monte),11.2,38.0,4.0,2
+307,penguin biscuit,64.2,63.0,40.0,3
+308,Pepperoni pizza (Goodfellas),26.6,51.0,14.0,3
+309,pepperoni pizza-frozen,29.5,51.0,15.0,3
+310,Pepsi Cola,11.5,58.0,7.0,2
+311,pesto sauce,3.2,45.0,1.0,4
+312,philadelphia with chives,3.5,34.0,1.0,3
+313,Picante salsa (Old el paso),4.6,45.0,2.0,4
+314,Pickled Onion Corn Snacks (Asda),57.0,63.0,36.0,2
+315,pizza base (Tesco),50.8,72.0,37.0,3
+316,Poppadums (plain),40.0,70.0,28.0,5
+317,Pot Noodle (chicken & mushroom) ,60.9,63.0,38.0,4
+318,pot noodle sweet and sour,63.2,63.0,40.0,4
+319,Potato Fritters,17.1,85.0,15.0,4
+320,Potato salad (Tesco),11.4,45.0,5.0,4
+321,Potato Salad with Egg (Safeway),8.5,45.0,4.0,4
+322,potato skins,14.1,69.0,10.0,3
+323,Potato Skins (Asda),32.0,85.0,27.0,4
+324,Potato Wedges - cooked (Schwartz),26.4,85.0,22.0,4
+325,Pralines & Cream ice cream - Haagen Dazs,38.0,45.0,17.0,4
+326,Prawn Crackers ,57.6,70.0,40.0,5
+327,Prawn curry  (Asda),16.4,53.0,9.0,3
+328,prawn rogan josh (M&S) ,7.0,53.0,4.0,3
+329,pringles,50.0,54.0,27.0,3
+330,Profiteroles,37.7,63.0,24.0,3
+331,Prosciutto di san daniele ,0.8,70.0,1.0,5
+332,Provender fat free dressing (honey & mustard),22.7,70.0,16.0,5
+333,Quaker Porridge Oats ,34.8,58.0,20.0,2
+334,Quality Street Chocolates ,66.7,45.0,30.0,3
+335,quattro formaggi pizza ,25.2,51.0,13.0,3
+336,Quiche with roasted vegetables (Asda),33.3,45.0,15.0,4
+337,Quorn burgers (<5% fat),5.8,70.0,4.0,5
+338,Quorn crunchy fillets v9,16.7,70.0,12.0,5
+339,Quorn fillets (Lemon & Black pepper) ,18.4,70.0,13.0,5
+340,Quorn fillets in seasoned coating (<10%fat),19.2,70.0,13.0,5
+341,Quorn Lasagne,7.7,70.0,5.0,5
+342,quorn mince ,1.4,70.0,1.0,5
+343,quorn sausage,5.9,70.0,4.0,5
+344,Raspberry Gateau,39.4,70.0,28.0,5
+345,Red Bull (drink),11.3,95.0,11.0,2
+346,Red Pesto Sauce (Tesco),8.4,70.0,6.0,5
+347,Red Thai curry with rice (Tesco),16.0,63.0,10.0,4
+348,refried beans,13.5,39.0,5.0,3
+349,Rhubarb crumble corner (Muller) ,22.5,46.0,10.0,3
+350,Ribena Light (Conc),4.0,66.0,3.0,3
+351,Rice Krispie Squares,79.0,80.0,63.0,1
+352,Roast Beef Roll,28.1,72.0,20.0,3
+353,Rocky caramel biscuit  (values per bar),16.8,63.0,11.0,3
+354,Rolo ,67.1,63.0,42.0,4
+355,Safeway Pineapple Cottage Cheese,8.7,34.0,3.0,3
+356,Salad Dressing reduced calorie (Tesco),12.9,70.0,9.0,5
+357,Salad sandwich (Sommerfield),20.2,72.0,15.0,3
+358,Salad with mayonnaise ,4.3,70.0,3.0,5
+359,Salmon and Broccoli Quiche (Tesco),15.3,45.0,7.0,4
+360,Salmon crunchies (Tesco),9.7,70.0,7.0,5
+361,salsa,7.0,45.0,3.0,4
+363,Scottish stovies ,9.9,85.0,8.0,3
+364,Seafood Sauce (Tesco),15.6,70.0,11.0,5
+365,Seafood sticks (Macfisheries),15.6,70.0,11.0,5
+366,seafood tagliatelle,7.1,45.0,3.0,4
+367,Sesame chicken with Chinese rice (Lean Cuisine),13.3,45.0,6.0,4
+368,Shape low fat fromage frais (St.Ivel),7.3,32.0,2.0,3
+369,Shredded Fruitful (cereal),66.9,63.0,42.0,4
+370,Shrimp bisque,1.8,70.0,1.0,5
+371,Skips (crisps),59.9,54.0,32.0,2
+372,Smoked Cheese and Ham Ciabatta (Asda),38.7,51.0,20.0,3
+373,Smoked ham and cheese tortellini (Tesco),40.3,45.0,18.0,4
+374,Smoked Sausage ,0.5,70.0,0.0,5
+375,snowball ,47.0,63.0,30.0,4
+376,Solero ice cream ,19.8,61.0,12.0,3
+377,Spaghetti Bolognese ready meal (Tesco) ,13.3,45.0,6.0,4
+378,Spaghetti in tomato sauce (Heinz weight watchers),10.0,45.0,5.0,4
+379,Spaghetti with tomato sauce tinned (Asda),12.9,45.0,6.0,4
+380,Special K With Red Berries,75.0,69.0,52.0,2
+381,Spinach & nutmeg soup - Covent Garden,2.5,45.0,1.0,4
+382,Spinach & Ricotta Tortellini Verdi (Sainsbury's),46.6,45.0,21.0,4
+383,Spinach & Ricotta Tortellini made from dry product (Sainsbury's),28.0,45.0,13.0,4
+384,Spinach and ricotta canneloni (Tesco),11.9,45.0,5.0,4
+385,Spring Rolls (Tesco),26.0,63.0,16.0,4
+386,Steak & mushroom pie (Tesco),18.6,45.0,8.0,4
+387,Steak & Vegetable Fajitas (Tesco),22.0,42.0,9.0,3
+388,Stovies (McIntoshs),9.9,66.0,7.0,3
+389,strawberry jelly cubes,67.1,53.0,36.0,2
+390,Sugar Free Polo,99.1,68.0,67.0,3
+391,Sundried Tom And Basil Focaccia (Tesco),39.4,51.0,20.0,3
+392,Super Noodles (chicken) ,19.6,47.0,9.0,2
+393,Sushi Bento Box With Meat (M&S),17.7,63.0,11.0,4
+394,Sutherland Triple Selection Sandwich (BLT Ham&Mus.),21.0,72.0,15.0,3
+395,sutherland variety sand's (BLT. prawn. ham&mustard) ,47.0,72.0,34.0,3
+396,Sweet & sour chicken with 5 spice rice (ASDA),21.2,47.0,10.0,3
+397,Sweet and Sour Sauce (uncle Ben's),21.5,70.0,15.0,5
+398,sweet and sour stir fry,13.7,47.0,6.0,3
+399,taco shells,60.8,63.0,38.0,4
+400,tagliatelle carbonara,11.0,45.0,5.0,4
+401,Tasty Tatties vegetable mix (Birds eye),20.0,45.0,9.0,4
+402,Bramley Apple Pie (Tesco) ,54.5,63.0,34.0,4
+403,Tesco Breakfast Boulders,83.3,72.0,60.0,3
+404,Tesco Chicken Spring Rolls,27.3,70.0,19.0,5
+405,Tesco Delight-No Added Sugar-Choc,62.5,34.0,21.0,3
+406,Egg fried rice (Tesco) ,25.4,63.0,16.0,3
+407,Tesco low fat mushroom soup,5.6,45.0,3.0,4
+408,Special fried rice (Tesco) ,21.5,63.0,14.0,4
+409,Tescos chicken pie,19.5,45.0,9.0,4
+410,Individual Bakewell Tart (Tesco),60.6,63.0,38.0,4
+411,thai red chicken curry- with rice,15.4,45.0,7.0,4
+412,Thick chocolate milkshake (Frijj),11.0,41.0,5.0,2
+413,Thin & cripsy cheese and tomato pizza (Tesco),30.9,51.0,16.0,3
+414,Thin & crispy cheese & tomato pizza (Sainsbury's,24.8,51.0,13.0,3
+415,Thins & crispy cheese feast pizza (Tesco),23.3,51.0,12.0,3
+416,Tikka Masala Sauce (Tesco low fat),10.2,70.0,7.0,5
+417,Tikka Masala Sauce (Tilda),10.0,70.0,7.0,5
+418,time out chocolate bar,55.0,43.0,24.0,2
+419,Tinned fruit salad (Tesco),11.0,55.0,6.0,2
+420,Tiramisu ,32.7,45.0,15.0,4
+421,Toffee cheesecake,31.0,63.0,20.0,4
+422,toffee pudding ,48.5,70.0,34.0,5
+423,Tomato & mascarpone pasta sauce (M&S),6.3,45.0,3.0,4
+424,tomato and basil soup,6.7,45.0,3.0,4
+425,Tomato and Orange Soup (Baxters),8.5,45.0,4.0,4
+426,Tomato soup (10 cal),38.0,45.0,17.0,4
+427,Tracker bar,57.4,57.0,33.0,3
+428,Triple Chocolate Biscuits (Fox's),61.6,45.0,28.0,4
+429,Tropical Fruit Drink (Tesco),12.4,45.0,6.0,4
+430,Tuc Biscuits,63.0,63.0,40.0,3
+431,tuna & pasta bake Asda,12.0,45.0,5.0,4
+432,Tuna & sweetcorn with lettuce s/w (green medow foods),25.2,72.0,18.0,3
+433,Tuna and cucmber s/wich (Boots shapers),16.0,72.0,12.0,3
+434,Tuna and Pasta bake (Tesco) ,10.6,45.0,5.0,4
+435,Tuna Tomato and Basil Pate (M&S),7.3,70.0,5.0,5
+436,tunnocks caramel wafer,68.0,63.0,43.0,3
+437,Marshmallow teacakes (Tunnocks) ,61.0,70.0,43.0,5
+438,Tunnock's snowballs ,47.0,70.0,33.0,5
+439,Turkey rashers (raw) ,2.1,70.0,1.0,5
+440,Tuscany Bean Soup (Safeway),8.8,45.0,4.0,4
+441,hoi sin sauce (Uncle Bens) ,38.3,70.0,27.0,5
+442,Utterly Butterly (vegetable fat spread with buttermilk),1.5,70.0,1.0,5
+443,Vegetable and lentil hash (Asda),14.2,29.0,4.0,3
+444,vegetable and lentil soup,9.4,44.0,4.0,3
+445,Vegetable dhal (Tesco),13.4,45.0,6.0,4
+446,Vegetable feast pizza deep pan (Tesco),25.9,51.0,13.0,3
+447,Vegetable finger (Birds Eye),21.0,45.0,9.0,4
+448,Vegetable grill,15.9,45.0,7.0,4
+449,Vegetable Lasagne (safeway),10.6,20.0,2.0,3
+450,Vegetable Pie (Somerfield),25.2,45.0,11.0,4
+451,vegetable risotto,19.7,69.0,14.0,3
+452,Vegetarian sausages (Cauldron foods),11.1,70.0,8.0,5
+453,Vegetarian sausages (Tesco) - raw,5.5,70.0,4.0,5
+454,Viennetta biscuit (Walls) ,23.0,64.0,15.0,3
+455,vit fit yoghurt,13.3,43.0,6.0,3
+456,Vitalinea fruit bar (Jacobs),71.9,70.0,50.0,3
+457,Vitalite,1.2,70.0,1.0,5
+458,Wagon Wheel,67.1,70.0,47.0,5
+459,Wake Up (Chocolate powder&200ml s-s milk) ,12.4,43.0,5.0,3
+460,Weetabix Advantage cereal,72.0,75.0,54.0,2
+461,Wheat crunchies (Golden Wonder),55.7,70.0,39.0,5
+462,white bread with grain,45.5,62.0,28.0,3
+463,Whole Nut Chocolate bar (Cadbury's),48.4,43.0,21.0,3
+464,Wholemeal pitta bread,39.8,63.0,25.0,3
+465,Wiggles - crisps (Asda),56.0,63.0,35.0,3
+466,wine gums ,76.7,78.0,60.0,3
+467,Yakult,18.0,46.0,8.0,2
+468,Yoghurt Muller thick and creamy,11.3,46.0,5.0,3
+469,Yorkie,58.5,43.0,25.0,3
+470,Yorkshire Ham Salad (Tesco),22.0,70.0,15.0,5
+471,Carrot & Orange cake (Trimlyne),52.4,46.0,24.0,3
+472,Beef&Tomato instant soup dry wt (Batchelors),70.5,45.0,32.0,4
+473,Duck & orange pate (ASDA),1.3,70.0,1.0,5
+474,Cheese coleslaw (ASDA),7.0,34.0,2.0,3
+475,Chocolate fudge ice cream cones (ASDA),34.8,45.0,16.0,4
+476,Chocolate flavoured milk drink (Somerfield),11.4,43.0,5.0,2
+477,Lasagne (Somerfield),10.6,35.0,4.0,2
+478,Honey roast ham wafer thin (Somerfield),2.5,70.0,2.0,5
+479,Dairylea thick slices,8.0,34.0,3.0,3
+480,3 min noodles won ton flavour dry wght(Blue Dragon),62.2,47.0,29.0,2
+481,Chicken korma (Sainsburys),3.3,53.0,2.0,3
+482,pepperoni pizza (Sainsburys),25.5,51.0,13.0,3
+483,T-bone steak flavour crisps (Roysters),52.6,54.0,28.0,3
+484,Snack sandwich (Cadburys),62.6,70.0,44.0,5
+485,Dairy cream apple turnover (Somerfield),29.2,63.0,18.0,4
+486,Milk chocolate shortcake biscuits (Sainsburys),64.2,63.0,40.0,3
+487,Vegetable curry (Tesco),7.1,45.0,3.0,4
+488,Fudgy Chocolate Brownies (M&S),56.7,38.0,22.0,3
+489,Cantonese sweet & sour chicken (Sainsburys),15.1,70.0,11.0,5
+490,Chicken nuggets,19.0,46.0,9.0,2
+491,Blackcurrant cheesecake (ASDA),31.8,63.0,20.0,4
+492,Cannellini beans-water sugar&salt added (Tesco),17.5,52.0,9.0,3
+493,White wine vinegar (Tesco),0.6,70.0,0.0,5
+494,Balsamic vinegar,15.0,70.0,11.0,5
+495,Organic dark chocolate 70% cocoa (Green&Blacks),51.0,43.0,22.0,3
+496,Organic crunchy cereal (Jordans),57.2,55.0,31.0,3
+497,Strawberry squash-no added sugar (ASDA),0.6,66.0,0.0,3
+498,Just Right (Kelloggs),76.0,60.0,46.0,2
+499,Bolognaise sauce (Dolmio),10.3,53.0,5.0,3
+500,Southern fried chicken steak (Tesco),10.9,70.0,8.0,5
+501,Choc chip all butter shortbread (Tesco),61.8,45.0,28.0,4
+502,After eights,72.4,45.0,33.0,4
+503,Hobnobs,63.7,59.0,38.0,3
+504,Hobnobs milk chocolate,63.2,63.0,40.0,3
+505,Capers in vinegar (Maitre Provi),0.5,70.0,0.0,5
+506,Healthy Eating bioyogurt fruit flavours (Tesco),7.0,46.0,3.0,3
+507,Hi juice pineapple squash (Tesco),49.1,66.0,32.0,3
+508,jelly beans,89.6,78.0,70.0,3
+509,Starmix sweets (Haribo),79.0,78.0,62.0,3
+510,Arrabbiata sauce (Tesco),3.7,45.0,2.0,4
+511,Cup a soup - chicken & sweetcorn (Tesco),52.8,45.0,24.0,4
+512,Garlic mayonaise (Simply Delicious),3.1,70.0,2.0,5
+513,Soya & linseed bread (Burgen),29.5,74.0,22.0,2
+514,Tomatoes chopped with basil - tinned (Biona),2.9,45.0,1.0,4
+515,Chocolate fingers (Cadburys),64.2,63.0,40.0,3
+516,Roast chicken hot & spicy wings (Tesco),7.2,70.0,5.0,5
+517,Flapjack cherry&sultana-95% fat free (Cookie Coach Company),66.3,63.0,42.0,4
+518,bagel - cinnamon & raisin - 98% fat free,44.3,72.0,32.0,3
+519,Rocket salad (bagged),0.6,45.0,0.0,4
+520,Pot Noodle (spicy curry),61.5,63.0,39.0,4
+521,Crispy chicken - battered (Birds Eye),12.9,45.0,6.0,3
+522,Florette crispy salad (with lambs lettuce),3.4,70.0,2.0,5
+523,Natures Path Heritage Cereal,80.0,55.0,44.0,3
+524,Natures Path millet rice,83.0,81.0,67.0,3
+525,Apple & Blackcurrant squash - concentrate (Robinsons),8.1,66.0,5.0,3
+526,Apple & blackcurrant squash no added sugar - concentrate (Robinsons),1.1,66.0,1.0,3
+527,Doria amaretti (biscuits),84.8,63.0,53.0,3
+528,Chocolate cream (Fry's),68.8,45.0,31.0,4
+529,Onion relish (Sainsburys),30.9,45.0,14.0,4
+530,Mango sorbet (Sainsburys),28.9,34.0,10.0,3
+531,Indian chicken madras (Sainsburys),3.6,53.0,2.0,3
+532,Light dressing vinaigarette (Crown),11.4,70.0,8.0,5
+533,Nutty crunch bar - maple & pecan (Jordans),56.8,70.0,40.0,3
+534,Hot Pop-microwave popcorn savory butter flavour,51.0,72.0,37.0,2
+535,Quorn & mushroom pie (Tesco),23.8,45.0,11.0,4
+536,Mint aero (Nestle),60.2,43.0,26.0,3
+537,Pure orange & pineapple juice (ASDA),10.0,66.0,7.0,3
+538,Crunchy breaded chicken burgers (ASDA),20.0,46.0,9.0,3
+539,Chicken pasanda (Safeway),6.8,53.0,4.0,3
+540,Maxim energy bar,70.9,70.0,50.0,5
+541,Egg & tomato sandwich (Tesco),19.8,72.0,14.0,3
+542,Egg mayonaise & cress sandwich (Tesco),18.4,72.0,13.0,3
+543,Swiss vegetable bouillon (Marigold),28.1,70.0,20.0,5
+544,Wispa (Cadbury),52.6,43.0,23.0,3
+545,Red Wine Vinegar (Tesco),0.6,70.0,0.0,5
+546,Philadelphia Light,3.4,34.0,1.0,3
+547,Stock cubes (basil) Knorr,32.2,70.0,23.0,5
+548,Custard tinned (low fat),12.7,38.0,5.0,2
+549,Madras curry sauce (Pataks),10.8,70.0,8.0,5
+550,Mushroom & garlic sauce 98% fat free (Homepride),8.9,70.0,6.0,5
+551,Beef & vegetable big soup (Heinz),7.3,45.0,3.0,4
+552,Chicken pie (Lean Cuisine),14.0,45.0,6.0,3
+553,McDonalds McFlurry (all types 1 portion = 170g),52.9,61.0,32.0,3
+554,Humous low fat (Tesco),12.9,6.0,1.0,2
+555,Sun Dried Tomato Sauce - stir in (Dolmio),9.3,45.0,4.0,4
+556,Mars bar ice cream,29.7,45.0,13.0,4
+557,Pizza topping (Napoli),7.8,70.0,5.0,5
+558,Chicken Balti (Sharwoods),15.4,53.0,8.0,3
+559,Yogurt cucumber and mint dip,7.2,35.0,3.0,3
+560,Chilli mix (Schwartz),63.6,70.0,45.0,5
+561,Tomato soup (Weight Watchers),4.6,34.0,2.0,2
+562,Vanilla ice cream LIGHT (Walls),12.4,61.0,8.0,3
+563,Carrot and lentil soup (Weight Watchers),6.0,45.0,3.0,4
+564,Pizza thinbase cheese ham & pineapple (Tesco),27.1,51.0,14.0,3
+565,Smoothie-orange & pineapple (Ribena),9.5,33.0,3.0,3
+566,Smoothie-peach & banana (Pete & Johnny),13.6,33.0,4.0,3
+567,Peanut cookies (Hellema),47.3,45.0,21.0,4
+568,Carbonara sauce 95% fat free,5.8,45.0,3.0,4
+569,Choco cornflakes (Kelloggs),84.0,85.0,71.0,4
+570,Golden Syrup Cake Bars,66.7,63.0,42.0,4
+571,Cheesecake (Weight Watchers),28.4,70.0,20.0,5
+572,Bean & Cheese Wrap (Tesco) (1=105g),28.5,45.0,13.0,4
+573,Beef platter (Tesco),8.0,70.0,6.0,5
+574,ASDA peking duck tortilla wrap,29.0,45.0,13.0,4
+575,Lasagne TESCO healthy eating,13.4,28.0,4.0,2
+576,sharwoods hoi-sin stir fry sauce,27.8,70.0,19.0,5
+577,sainsbury's cacciatore sauce,4.3,70.0,3.0,5
+578,Chicken & asparagus tortelloni,25.2,45.0,11.0,4
+579,Chinese veg stir fry,4.1,45.0,2.0,4
+580,Apple&sultana flap jack,52.2,63.0,33.0,4
+581,Kettle chips (salt & vinegar),60.9,54.0,33.0,2
+582,Thai red chicken curry Sainsbury's,5.5,53.0,3.0,3
+583,Coco-pops cereal & milk bar (Kelloggs) 1=20g,73.0,70.0,51.0,3
+584,Potato mash with carrot&swede (M&S),12.2,85.0,10.0,4
+585,Vegetarian sausage rolls (Linda McCartney),23.1,45.0,10.0,4
+586,Egg mayonaise sandwich filler (Tesco),2.5,70.0,2.0,5
+587,Chicken tikka sandwich filler (Tesco),12.4,53.0,7.0,3
+588,Chicken & broccoli pasta bake (Weight Watchers),11.0,45.0,5.0,4
+589,Pizza mixed toppings (<5% fat) McCain,25.9,51.0,13.0,3
+590,Tesco Toffee Temptation Cake,39.1,38.0,15.0,3
+591,Rocky Biscuit (Red),60.7,63.0,38.0,3
+592,Oven Chips (Frozen),32.4,75.0,24.0,3
+593,Tuna Mayo Sandwich Filler (Tesco),10.0,70.0,7.0,5
+594,Californian Tomato (More Than A Dressing),17.3,45.0,8.0,4
+595,Tesco BLT Sandwich,23.5,72.0,17.0,3
+596,McDonalds 1/4lb Burger w. Cheese,19.0,72.0,14.0,3
+597,Oven Battered Haddock,13.3,70.0,9.0,5
+598,Fresh Mushroom Sauce,6.4,45.0,3.0,4
+599,Fajhita Seasoning,56.0,70.0,39.0,5
+600,Houmous (Marks & Spencer),9.5,6.0,1.0,2
+601,Meatballs And Pasta In Sauce (Marks & Spencer),15.2,34.0,5.0,3
+602,Tesco Prepack Salad,3.0,45.0,1.0,4
+603,Tesco Mince Pie (Pastry Top+Bottom),24.2,45.0,11.0,4
+604,Mixed Veg (Frozen),7.8,45.0,4.0,4
+605,Garden Pre-pack Salad (lett/tom/cuc etc),2.0,45.0,1.0,4
+606,Tagliatelle (Dry),68.5,45.0,31.0,4
+607,Apricot Fruit Fool,16.4,45.0,7.0,4
+608,Crunch Corner,22.5,63.0,14.0,4
+609,Caesar Salad Tesco,6.7,45.0,3.0,4
+610,Honet Nut Bran Flakes,70.0,76.0,53.0,3
+611,BGTY Choc Pudding,45.3,63.0,29.0,4
+612,Fish Pie (Marks & Spencer),7.7,40.0,3.0,2
+613,Tesco Low Fat Garlic Bread,41.6,95.0,40.0,3
+614,Ame Herbal Drink,9.5,66.0,6.0,3
+615,Oreo Biscuit,69.7,63.0,44.0,3
+616,Prawn & Mayo S/W Filler,3.6,70.0,3.0,5
+617,Asda Strawberry Dairy Cream Sponge,40.0,45.0,18.0,4
+618,Choc. Croissant,46.5,67.0,31.0,3
+619,Chicken Kiev- Frozen,9.6,45.0,4.0,4
+620,Birds Eye Chicken Grill - Mexican Flavour ,16.5,46.0,8.0,3
+621,Campbells Cond Chick.Soup 99%FF As Served,5.0,45.0,2.0,4
+622,Muller Fat Free Rice,11.8,59.0,7.0,3
+623,Tesco Cheese Topped Baguette,31.4,72.0,23.0,3
+624,Benecol Strawberry Yoghurt,14.8,46.0,7.0,2
+625,Lower Sugar Marmalade,27.5,49.0,13.0,3
+626,Bran Biscuits,58.8,45.0,26.0,3
+627,Tesco Chick.Fajhita Wrap (S/W Style),24.5,42.0,10.0,2
+628,Moroccan Style Cous Cous (Pkt Cooked),21.5,65.0,14.0,2
+629,99% FF Cous Cous With Chargrill Veg (Marks & Spencer),17.3,65.0,11.0,2
+630,Count On Us Singapore Noodles (Marks & Spencer),9.4,47.0,4.0,2
+631,Fresh Penne Pasta ,51.8,45.0,23.0,4
+632,Tinned Veg Ravioli - Tesco,16.3,45.0,7.0,4
+633,Pot noodle pot curry tikka masala 300g made up,17.5,63.0,11.0,4
+634,Mash Pot.Smiley Faces - Frozen,29.2,85.0,25.0,4
+635,LM Veggie Hotdogs,8.4,70.0,6.0,5
+636,Barleycup Cereal Drink Powder,55.6,70.0,39.0,5
+637,Asda Chicken Tikka Masala,6.0,53.0,3.0,3
+638,Fresh Egg Tagliatelle,25.0,32.0,8.0,3
+639,Asda Ham + Tom Sandwich,23.0,72.0,17.0,3
+640,Walnut Whip,60.5,63.0,38.0,4
+641,Asda Peach Melba Drink,11.0,66.0,7.0,3
+642,Passata,4.0,70.0,3.0,5
+643,Croutons,49.0,72.0,35.0,3
+644,Knorr Fish Stock Cubes,17.8,70.0,12.0,5
+645,Homemade Fish Soup (Nick's Recipe),2.8,45.0,1.0,4
+646,Frosted Shreddies,81.1,70.0,57.0,3
+647,Tesco Beef In Black Bean Sauce ,7.1,70.0,5.0,5
+648,Tesco Low Fat Custard Style Yoghurt,7.6,45.0,3.0,4
+649,Tesco Spicy Tom Pasta Spirals (Canned),11.6,45.0,5.0,4
+650,Healthy Option Smoked Ham Sandwich,25.5,72.0,18.0,3
+651,Bernard Matthews Malaysian Curry,4.1,53.0,2.0,3
+652,Weight Watchers Sliced Malted Danish Bread,41.3,72.0,30.0,3
+653,Weight Watchers Fat Free Toffee Yoghurt,6.2,35.0,2.0,3
+654,Garlic Naan Bread,47.0,63.0,30.0,4
+655,Crunchie Ice Cream/100ml,20.6,45.0,9.0,4
+656,Entemann's Chocolate Baked Cheesecake,29.9,45.0,13.0,4
+657,Quaker Harvest Crunch,67.0,63.0,42.0,4
+658,Homepride Red Wine Sauce,10.1,70.0,7.0,5
+659,Dolmio Pasta Bake (Creamy Tom.),8.4,45.0,4.0,4
+660,Fresh Vegetable Stir Fry,4.4,45.0,2.0,4
+661,Walnut Bread,22.9,63.0,14.0,4
+662,Organic Carrot Cake,47.4,63.0,30.0,4
+663,Oatflake + Honey Cookies,66.0,54.0,36.0,3
+664,Krisprolls,67.0,70.0,47.0,5
+665,Chicken Fried Rice,11.5,63.0,7.0,4
+666,BGTY Creme Fraiche,5.0,34.0,2.0,3
+667,Elmlea Single Light Cream,6.4,34.0,2.0,3
+668,Elmlea Double Light Cream,6.4,34.0,2.0,3
+669,LF Prawn Cocktail,5.9,70.0,4.0,5
+670,Sainsbury's Swedish Meatballs,7.0,34.0,2.0,3
+671,Penne Mozzerella Bake,19.7,45.0,9.0,4
+672,McDonalds Strawberry Milkshake/100ml,20.0,41.0,8.0,2
+673,Deep Fill Chicken + Bacon Sandwich,20.3,72.0,15.0,3
+674,Apple School Bars,83.0,70.0,58.0,5
+675,Tesco Mushroom Stroganoff With  Rice,12.8,63.0,8.0,4
+676,Healthy Eating Quiche Lorraine-Tesco,18.3,45.0,8.0,4
+677,Health Eating Ch/Onion/Chive Quiche-Tesco,20.1,45.0,9.0,4
+678,Health Eating Broccoli Quiche-Tesco,20.9,45.0,9.0,4
+679,Weight Watchers Sliced White Bread,42.6,72.0,31.0,3
+680,Sweet Waffles-American Style,51.9,76.0,39.0,2
+681,St Pierre Brioche,54.0,72.0,39.0,3
+682,Nutri-Grain Elevenses Bar-Raisin,71.0,70.0,50.0,3
+683,Healthy Eating Iced Lemon Sponge Cake-Tesco,69.1,46.0,32.0,3
+684,Onken Lite Strawberry Mousse,17.3,45.0,8.0,4
+685,Onken Lite Lemon Mousse,18.0,34.0,6.0,3
+686,Tesco Bottled Lemon Juice/100ml,2.0,70.0,1.0,5
+687,Heinz Salad Cream,20.3,70.0,14.0,5
+688,Hellman's Mayonnaise,1.3,70.0,1.0,5
+689,Hellman's Reduced Calorie Mayonnaise,6.7,70.0,5.0,5
+690,Philadelphia ,2.5,34.0,1.0,3
+691,Asda Luxury Coleslaw,6.0,45.0,3.0,4
+692,Sunpat Crunchy Peanut Butter,19.8,23.0,5.0,2
+693,Branston pickle,34.2,70.0,24.0,5
+694,Asda Soft Grain Bread,46.0,80.0,37.0,1
+695,I Can't Believe It's Not Butter ,0.3,70.0,0.0,5
+696,Tesco Lowest Sunflower Spread,14.0,70.0,10.0,5
+697,Asda Organic Margherita Pizza,30.0,51.0,15.0,3
+698,Chicken & Bacon Deep Fill Club Sandwich,18.1,72.0,13.0,3
+699,Battered Sausages,16.9,70.0,12.0,5
+700,Pizza Hut Pepperoni Stuffed Crust Pizza,27.4,51.0,14.0,3
+701,BK Double Cheeseburger,13.6,72.0,10.0,3
+702,Saint Agur Cheese,0.2,34.0,0.0,4
+703,Seeded Batch Brown Loaf  Unsliced (Marks & Spencer),37.7,62.0,23.0,3
+704,Craisins cranberries (Original) - Ocean Spray,80.3,56.0,45.0,2
+705,Rice with mixed vegetables frozen (Marks & Spencer),18.8,63.0,12.0,4
+706,Count On Us vanilla yoghurt (Marks & Spencer),6.1,35.0,2.0,3
+707,Count On Us toffee yoghurt (Marks & Spencer),7.7,36.0,3.0,3
+708,BK Hot Chocolate,15.1,43.0,6.0,3
+709,ASDA Roast Chicken Sandwich,22.0,72.0,16.0,3
+710,Jalapeno peppers,33.9,45.0,15.0,4
+711,Breaded mushrooms,17.4,45.0,8.0,4
+712,Lloyd Grossman Green Thai Curry Sauce,32.6,53.0,17.0,3
+713,Somerfield Traditional Style Diet Lemonade,0.2,70.0,0.0,5
+714,Asda Hake Breaded Fillets,19.0,38.0,7.0,3
+715,Tesco Raspberry Sponge Pudding,33.3,70.0,23.0,5
+716,chicken & broccoli crispbake[sainsbury],23.2,45.0,10.0,4
+717,haribo starmix sweets,79.0,78.0,62.0,3
+718,jammie dodgers,68.8,70.0,48.0,5
+719,ice lolly,14.0,66.0,9.0,3
+720,milky bar yoghurt,21.6,45.0,10.0,4
+721,snack-a-jacks jumbo cheese flavour [quaker  10g],81.0,78.0,63.0,2
+722,options belgian choc,54.9,43.0,24.0,2
+723,petits filous yoghurt,15.0,36.0,5.0,3
+724,italian risotto mushroom [rice cuisine],21.5,69.0,15.0,3
+725,creamed spinach,4.8,45.0,2.0,4
+726,shape yoghurt[St Ivel (120 g],5.6,46.0,3.0,3
+727,peach nectar & pulp [lidl],14.3,55.0,8.0,3
+728,Kelloggs Frosties Cereal & Milk Bar,68.0,70.0,48.0,3
+729,Kelloggs Special K Bar,75.0,70.0,53.0,3
+730,Jordans Raisin & Hazlenut Frusli Bar,61.3,70.0,43.0,1
+731,Alpen Bar (Strawberry & Yoghurt),73.5,51.0,37.0,3
+732,ASDA Chicken & Bacon Sandwich Filling,2.0,70.0,1.0,5
+733,Slimfast Banana Shake (325ml),12.3,45.0,6.0,4
+734,Chicken Stew (McIntosh of Dyce),4.4,53.0,2.0,3
+735,chicken and red wine penne (weight watchers  canned),10.1,45.0,5.0,4
+736,Tesco Vegetable Quiche,17.5,45.0,8.0,4
+737,Warburtons Seeded Batch Loaf,39.6,80.0,32.0,3
+738,Go Ahead Hazlenut & Pistachio Bar (35g),68.3,70.0,48.0,3
+739,Somerfield Chicken Tagliatelle (450g),14.6,45.0,7.0,4
+740,millionaires biscuits (Fox's),59.5,63.0,37.0,3
+741,Healthy Balance cereal (Sainsbury's),77.7,70.0,54.0,3
+742,Snack-a- jacks crisps <10% fat (Quacker),77.0,78.0,60.0,2
+743,Chicken peppers&parmesan focaccia (M&S),24.3,51.0,12.0,3
+744,Mozzarealla  tomatoes&pesto focaccia (M&S),22.8,51.0,12.0,3
+745,Sweet&sour chicken rice (tesco Kids),22.2,45.0,10.0,4
+746,BK Sausage  Bacon & Egg Breakfast Bun,26.7,72.0,19.0,3
+747,Vimto,11.0,66.0,7.0,3
+748,Lucozade Sport - Carbo Gel (Orange),68.2,95.0,65.0,2
+749,Tesco Wafer Thin Smoked Ham,0.8,70.0,1.0,5
+750,Count On Us Raspberry Mini Bites,74.9,63.0,47.0,3
+751,Mars Delight (2 bars of 20g per pack),55.3,65.0,36.0,2
+752,Weight watchers chicken and lemon risotto,12.3,69.0,8.0,3
+753,Tuna mayonnaise & sweetcorn (Heinz Weight Watchers),6.1,70.0,4.0,5
+754,Tesco Cheddar And Spring Onion Dip,4.6,45.0,2.0,4
+755,Asda Chicken Chow Mein Ready Meal,16.0,47.0,8.0,2
+756,Sainsbury's Tuna & Sweetcorn Pasta (Cooked),15.4,70.0,11.0,5
+757,Pasta & Sauce-Mushroom & Garlic (Made Up),17.3,45.0,8.0,4
+758,Sainsbury's chunky chocolate & hazlenut cookies,53.7,63.0,34.0,3
+759,Sainsbury's all butter flapjacks,54.5,63.0,34.0,4
+760,Potato Leek and cheese bake (Morrisons),8.0,63.0,5.0,4
+761,Crackerbread,76.9,85.0,65.0,4
+762,Cup a Soup- Leek with Noodles (as served/100g),9.1,45.0,4.0,4
+763,Tesco Chicken Tikka Pizza,27.3,51.0,14.0,3
+764,Actimel probiotic yogurt drink (100g),14.3,46.0,7.0,2
+765,Alpen fruit & nut & chocolate bar,68.4,72.0,49.0,3
+766,Weight Watchers Spaghetti Bolognese,12.7,52.0,7.0,2
+767,Jacobs Thai Bites (Sweet Herb flavour) ,82.8,63.0,52.0,3
+768,McDonalds Chicken Caesar Salad (plain),1.5,45.0,1.0,4
+769,McDonalds Chicken Caesar Salad with crutons,5.8,45.0,3.0,4
+770,Linseed,5.0,70.0,4.0,5
+771,weight watchers choc chip cookie (12g each),66.1,63.0,42.0,3
+772,flora Pro-active spread,3.2,70.0,2.0,5
+773,Quaker oatso simple syrup swirl porridge (27g),70.0,51.0,36.0,3
+774,Sainsburys ham and cheese sub roll (210g),28.2,72.0,20.0,3
+775,Tesco Creamy Garlic chicken kiev (142g),9.3,45.0,4.0,4
+776,Slim Fast yogurt muesli meal bar,46.2,70.0,32.0,3
+777,Pork & Leek sausages (Asda) 454g for 6,11.0,70.0,8.0,5
+778,Cajun style chicken flatbread ASDA GFY,21.0,63.0,13.0,4
+779,Ainsley Harriott Thai Style Noodles cooked,21.2,63.0,13.0,3
+780,Jordan's luxury Maple and Pecan cereal,59.9,66.0,40.0,3
+781,Sainsbury Taste the Diff. Coconut cookies,49.8,63.0,31.0,4
+782,Asda Flour Tortillas (33g each),54.0,30.0,16.0,2
+783,Tesco Garlic and Coriander Naan Bread,36.5,63.0,23.0,4
+784,Silver Spoon Sugar Light,100.0,68.0,68.0,2
+785,Walkers Sensations Thai Sweet Chilli (150g),54.0,54.0,29.0,2
+786,Clover  (72% Fat Spread),0.9,70.0,1.0,5
+787,Barrs Irn Bru (normal),10.5,58.0,6.0,2
+788,Quavers Walkers Cheese Flavour (20g),61.0,63.0,38.0,3
+789,Tesco Apple and Mango Juice,12.0,40.0,5.0,3
+790,Tesco Finest Date and Walnut Loaf Cake,40.9,63.0,26.0,4
+791,Sundora Dried Mango (125g bag),76.2,70.0,53.0,5
+792,Weight Watchers Thick & Fruity Raspberry Yoghurt,5.7,35.0,2.0,3
+793,Kellogg's Fruit & Fibre Bar,72.0,57.0,41.0,3
+794,Welch's 100% White Grape Juice,16.3,48.0,8.0,3
+795,Nescafe Cappuccino Packet (18g),60.3,70.0,42.0,5
+796,Fruit Flakes Strawberry + Yogurt coating (25g),72.8,70.0,51.0,3
+797,Evaporated S/Smilk TESCO healthy living,11.0,34.0,4.0,3
+798,Fox's toffee apple cookie bar (officially low fat),75.9,63.0,48.0,4
+799,Go Ahead crispy rice crackers ,78.2,78.0,61.0,3
+800,Sains taste the diff potato dauphinoise (200g),11.1,85.0,9.0,4
+801,Asda GFY liver bacon + mash meal (400g),10.0,85.0,9.0,4
+802,Fanta fruit twist (orange peach passion fruit),13.0,70.0,9.0,5
+803,Heinz instant chicken noodle made up 385g <1%fat,14.4,63.0,9.0,4
+804,Montana Bakery garlic doughballs (9g each),32.0,51.0,16.0,3
+805,minstrels (bag = 42g),68.6,43.0,29.0,3
+806,Green+Blacks milk chocolate + almonds 100g,41.5,35.0,15.0,3
+807,Sains TTD Spanish paella 2portion=700g,15.9,63.0,10.0,4
+808,Caramel KitKat (46g bar),64.6,63.0,41.0,3
+809,Tesco Cranberry Wheats (serving=50g),70.9,75.0,53.0,3
+810,McVitie goAhead forest fruit yogurt break(36g),64.0,70.0,45.0,3
+811,Somerfield Raspberry Pavlova (serving=57g),45.9,63.0,29.0,4
+812,Seafood dressing,15.0,70.0,11.0,5
+813,Oatmeal Stuffing,66.0,57.0,38.0,3
+814,Kraft Dairylea Dunkers (50g) ,28.0,63.0,18.0,4
+815,Tesco HL Chicken+sweetcorn soup (400g can),5.3,45.0,2.0,4
+816,Asda Oriental Crispy chilli beef (300g),30.0,70.0,21.0,5
+817,Asda mini jackets with sour cream+chives (250g),14.0,63.0,9.0,4
+818,Morrison chicken in mushroom+red wine sauce 380g pack,4.6,53.0,2.0,3
+819,Tesco Indian Basmati rice 250g pack (cooked),27.0,43.0,12.0,1
+820,Boots shapers cheese salad sandwich (180g),24.0,72.0,17.0,3
+821,Slimfast Instant soup chicken+corn 59g dried,50.0,45.0,23.0,4
+822,Birds Eye chicken lattice bacon+cheese 155g,21.0,67.0,14.0,3
+823,Tesco HL Indian Chicken Tikka Masala 450g,16.7,53.0,9.0,3
+824,Honey nut Shredded wheat,69.2,75.0,52.0,3
+825,Terrys Chocolate Orange,57.8,43.0,25.0,3
+826,Apple + Strawberry juice,1.0,41.0,0.0,3
+827,Kellogg's Honey Nut Loops,77.0,71.0,55.0,3
+828,Homepride Curry Sauce,10.7,70.0,7.0,5
+829,Asda Clear Chicken Noodle Soup,3.4,45.0,2.0,4
+830,Ryvita Minis cheese and onion flavour (30g),69.1,64.0,44.0,2
+831,Mug Shot Noodles chow mein (236g made up),22.6,63.0,14.0,3
+832,Asda GFY Cranberry+raspberry cereal bar 25g,77.0,70.0,54.0,3
+833,Nestle Fitnesse Apricot Bar (24g),73.4,70.0,51.0,3
+834,Tesco HL Lincolnshire Pork Sausages 57g,10.4,70.0,7.0,5
+835,Asda Mandarin Cheese cakes (98g each),36.0,63.0,23.0,4
+836,Asda GFY Choc Sponge Pudding 105g each,37.0,63.0,23.0,4
+837,Ashley's Praline Seashells (chocs),65.4,45.0,29.0,4
+838,Heinz Spicy Butternut Squash Soup 400g can,5.5,45.0,2.0,4
+839,Tesco HL Spaghetti+Meatballs 400g,13.5,45.0,6.0,4
+840,Tesco Finest lamb moussaka 330g,9.1,35.0,3.0,2
+841,Tesco chinese chicken kebab 260g,1.5,45.0,1.0,4
+842,Tesco HL Potato Salad 250g,9.0,45.0,4.0,4
+843,Tesco HL Coleslaw 250g,7.1,45.0,3.0,4
+844,Tesco HL Chicken+Salsa Wrap 240g,21.4,70.0,15.0,5
+845,Sains BGTY Chicken Salad sanwich 204g,21.0,72.0,15.0,3
+846,Green thai chicken curry 425g (Marks & Spencer),4.3,53.0,2.0,3
+847,Tesco Finest oatmeal batch bread 50g/slice,50.1,73.0,37.0,3
+848,Carlos Pepperoni Deep Pan Pizza 208g,39.8,51.0,20.0,3
+849,Baxters carrot+coriander soup 415g,6.0,45.0,3.0,4
+850,Baxters mediterranean tomato soup 415g,6.8,45.0,3.0,4
+851,Tesco HL Cauliflower Cheese 250g,3.8,34.0,1.0,3
+852,Kelloggs Special K yoghurty low fat ,75.0,53.0,40.0,3
+853,Sainsbury pasta spinach+ricotta tortellini 155g cooked,27.8,45.0,13.0,4
+854,ASDA GFY Chicken Korma with rice 400g,17.0,53.0,9.0,3
+855,ASDA thin chargilled chicken pizza 360g,29.0,51.0,15.0,3
+856,Sains battered sweet+sour chicken 350g,22.4,47.0,11.0,3
+857,Trebor softmints 45g/pack,94.3,70.0,66.0,2
+858,Bassetts lemon bon bons 7g/sweet,83.7,68.0,57.0,3
+859,Danone Actimel 0.1% fat pineapple 100g,5.5,46.0,3.0,2
+860,Soupreme cup a soup tomato+veg 27g dry weight,68.6,45.0,31.0,4
+861,Sharwoods thai spiced crackers 60g ,68.7,65.0,45.0,3
+862,McVities Hob Nob Flapjack (nobbly+oaty) 65g,60.9,63.0,38.0,4
+863,Asda GFY Cottage pie 400g,10.0,65.0,7.0,2
+864,Cadburys mini eggs 3g each,67.7,43.0,29.0,3
+865,Asda Melba toast 3g/slice,76.0,72.0,55.0,3
+866,Jacobs Iced Gems 30g bag,85.5,68.0,58.0,3
+867,Pataks Kashmiri chilli+peppers sauce 350g,7.7,70.0,5.0,5
+868,Weetabix minis Fruit+nut crisp 36g serving,70.3,75.0,53.0,2
+869,Heinz WW Instant spict thai noodles 385g made up,15.1,63.0,10.0,3
+870,Count on Us pasta tomato+basil chicken 190g (Marks & Spencer),14.4,35.0,5.0,3
+871,Boots shapers cheese+3 bean tortilla wrap 202g,27.0,45.0,12.0,4
+872,Morrisons extra light cream cheese 200g,3.5,34.0,1.0,3
+873,half fat cheese slices 5g (Marks & Spencer),7.1,34.0,2.0,3
+874,Morrisons sweet+sour chicken 350g,16.6,70.0,12.0,5
+875,Tesco Indian Pilau Rice 250g,37.5,63.0,24.0,4
+876,Birds Eye Chicken curry + rice 400g,18.6,63.0,12.0,4
+877,Longley farm cottage cheese+chives 250g,3.4,34.0,1.0,3
+878,Tesco finest tomato+basil soup 600g,6.5,45.0,3.0,4
+879,Weight Watchers Chicken tikka sandwich 168g,23.2,72.0,17.0,3
+880,Tesco Italiano sausage + tomato pasta 450g,18.8,35.0,7.0,3
+881,Tesco HL spinach + ricotta cannelloni 340g,12.3,35.0,4.0,3
+882,Sains BGTY caesar salad 255g bag,9.8,45.0,4.0,4
+883,Waitrose perfect balance tomato+herb sauce ,5.3,45.0,2.0,4
+884,Tesco HL tuna & sweetcorn sandwich 184g,22.5,72.0,16.0,3
+885,Batchelors cup a soup broc+cheese+pasta 290g made up,8.1,45.0,4.0,4
+886,Tesco HL Cod in cheese & parsley sauce 450g,5.7,70.0,4.0,5
+887,Toffee apple (portion = 240g),62.0,45.0,28.0,4
+888,Coffee latte,8.0,34.0,3.0,3
+889,McDonalds Double Sausage & Egg McMuffin (220g),13.0,72.0,9.0,3
+890,Ready Brek madeup with SS milk,20.0,45.0,9.0,4
+891,Lemon tart (portion = 115g),39.0,70.0,27.0,5
+892,Raspberry coulis,30.0,45.0,14.0,4
+893,Salmon and cucumber sandwich (149g),19.0,72.0,14.0,3
+894,Egg and bacon sandwich (Boots 179g),19.0,72.0,14.0,3
+895,Vegetarian meatballs (Quorn based),5.0,70.0,4.0,5
+896,Instant Whey protein. powder. Reflex,4.0,70.0,3.0,5
+897,Tesco low fat fruit yoghurt,16.0,53.0,8.0,3
+898,Lurpak Spreadable. slightly salted,1.0,70.0,1.0,5
+899,dark choc and almond tort / tart,30.0,70.0,21.0,5
+900,warburtons medium sliced white bread,43.0,72.0,31.0,3
+901,marmite,19.0,70.0,13.0,5
+902,ryvita origanal,67.0,74.0,50.0,2
+903,cheddar cheese biscuits,40.0,65.0,26.0,2
+904,innocent smoothie,13.0,33.0,4.0,3
+905,yorkshire tea loaf,60.0,72.0,43.0,3
+906,Tesco Spicy Parsnip soup,7.0,45.0,3.0,4
+907,Apple juice from concentrate,11.0,40.0,4.0,2
+908,Tesco value cooked ham,3.0,70.0,2.0,5
+909,Tesco Dijon mustard,8.0,70.0,6.0,5
+910,grilled beanburger,13.7,45.0,6.0,4
+911,Olivio spread,1.0,70.0,1.0,5
+912,Tesco malt wheats,72.0,70.0,50.0,3
+913,Alpen light bar,57.0,70.0,40.0,3
+914,Activia. prune yoghurt,12.0,46.0,6.0,2
+915,wholewheat pasta twists,62.0,32.0,20.0,2
+916,oatibix,64.0,55.0,35.0,3
+917,Baxters carrot and bean soup,8.0,45.0,4.0,4
+918,Splenda Low cal sweetner,77.0,70.0,54.0,5
+919,green and blacks,19.0,43.0,8.0,3
+920,special K Bliss Berry Crunch,76.0,69.0,52.0,2
+921,Pringles light,58.0,54.0,31.0,3
+922,Tesco special fllake cereal bar chocolate chip,80.0,70.0,56.0,3
+923,actimel (strawberry),12.0,46.0,6.0,2
+924,dressing. caesar,8.0,70.0,6.0,5
+925,tesco pizza,23.0,51.0,12.0,3
+926,vogel's sunflower and barley brown bread,40.0,40.0,16.0,1
+927,Food Doctor seed mix,8.0,70.0,6.0,5
+928,Waitrose salmon and watercress tartlet,18.0,63.0,11.0,4
+929,Panda licorice ,73.0,68.0,50.0,3
+930,Waitrose St Clement cake slice,64.0,42.0,27.0,3
+931,Blackcurrant and raspberry fruit pudding FRU,21.0,45.0,9.0,4
+932,Waitrose Spinach and ricotta ravioli,30.0,45.0,14.0,4
+933,Bath Olivier Biscuits,68.0,59.0,40.0,3
+934,Balance bar- sainsburys- cranberry and yoghurt,77.0,70.0,54.0,3
+935,sainsburys roast potatoes and garlic,21.0,85.0,18.0,4
+936,oatso simple original,60.0,58.0,35.0,3
+937,sesame snaps,62.0,64.0,40.0,3
+938,bramley apple quorn sausages,8.0,70.0,6.0,5
+939,anchor low fat cream (swirls),2.0,34.0,1.0,3
+940,tescos ploughmans sandwich,21.0,72.0,15.0,3
+941,hoi sin duck wrap (tesco),23.0,45.0,10.0,4
+942,bagel. new york,50.0,72.0,36.0,2
+943,mixed salad,3.0,45.0,1.0,4
+944,tesco finest beef cannelloni,13.0,45.0,6.0,4
+945,jordan's superfoods breakfast flakes,67.0,74.0,50.0,3
+946,Tesco H/L chocolate muffins,47.0,63.0,30.0,3
+947,tesco healthy living potato salad,15.0,45.0,7.0,4
+948,Salmon & cucumber  sainsbury's BGTY,24.0,72.0,17.0,3
+949,Rustler BBQ Pork Rib Sandwich,23.0,72.0,17.0,3
+950,Breakaway biscuit,61.0,63.0,38.0,3
+951,Tesco Stonebaked Garlic Pizza Bread 253g,44.0,51.0,22.0,3
+952,Tesco HL breaded chunky cod prime fillets,19.0,38.0,7.0,3
+953,Special K Medley,76.0,60.0,46.0,3
+954,Kraft Dairylea slices,9.0,34.0,3.0,3
+955,Tesco Healthy Living Carrot and Orange Cake,49.0,63.0,31.0,4
+956,Bird's eye chicken and country vegetable pie,14.0,45.0,6.0,4
+957,Tesco Raisin Wheats,70.0,61.0,43.0,3
+958,Tesco Stonebaked Sourdough Bloomer ,50.0,54.0,27.0,3
+959,Orville Redenbacher's Sweet and Salty Popcorn,56.0,72.0,40.0,2
+960,Jordans special muesli,60.0,66.0,40.0,2
+961,Tesco Finest Olive Bread,50.0,72.0,36.0,3
+962,Ginsters chicken & mozzarella bake,18.0,45.0,8.0,4
+963,dolmio stir in (sweet pepper) sauce,10.0,70.0,7.0,5
+964,Tesco cheese and bacon potato skins,14.0,63.0,9.0,4
+965,Slimfast Vanilla shake ,7.0,48.0,3.0,3
+966,Boursin Garlic and Herb soft cheese cubes ,2.0,34.0,1.0,3
+967,smirnoff ice,8.0,70.0,6.0,5
+968,Caramelized onion houmous (Sainsbury),12.0,6.0,1.0,2
+969,Coffee Creation Yoghurt,18.0,46.0,8.0,3
+970,Sainsbury Pate de Campagne pork liver pate,1.0,70.0,1.0,5
+971,Hot Cross Buns BGTY Sainsbury,44.0,72.0,32.0,3
+972,vegetable spring rolls,26.0,45.0,12.0,4
+973,Muller Vitality Probiotic Drink Vanilla +omega3,13.0,46.0,6.0,2
+974,Sainsbury TTD Tortellini and Pepper Salad,16.0,45.0,7.0,4
+975,Orange juice from Concentrate,10.0,52.0,5.0,2
+976,Empire Foods No-No Flat Bread,70.0,70.0,49.0,5
+977,Tesco parsnips (loose),12.0,97.0,12.0,2
+978,Margarine. Clover,1.0,70.0,1.0,5
+979,Kelloggs Fruit and fibre,69.0,68.0,47.0,3
+980,Tesco Poached salmon fillets,1.0,70.0,1.0,5
+981,Vogels Soya & Linseed Bread,34.0,49.0,17.0,1
+982,Tesco Chocolate Mousse,27.0,34.0,9.0,3
+983,Kelloggs All Bran,48.0,45.0,22.0,2
+984,McDonalds Chocolate milkshake Medium,20.0,41.0,8.0,2
+985,McDonalds French Fries Medium,37.0,75.0,28.0,3
+986,McDonalds BicMac,14.0,72.0,10.0,3
+987,Tesco Red Onion,8.0,45.0,4.0,4
+988,Nairns Cheesey Oatcakes,46.0,57.0,26.0,2
+989,Blueberry. Tesco ,7.0,70.0,5.0,5
+990,Apricot. Cashew Nut and Pumpkin seed bar,57.0,70.0,40.0,3
+991,Caeser salad dressing. Tesco healthy living,9.0,70.0,6.0,5
+992,Tortilla Wraps. Tesco,52.0,30.0,16.0,2
+993,Galaxy bar cake,55.0,38.0,21.0,3
+994,ryvita crispbread,58.0,64.0,37.0,2
+995,Tango Diet Orange 330ml,1.0,70.0,1.0,5
+996,Tic Tac Tropical Twist,93.0,70.0,65.0,5
+997,Tesco Rhubarb in light syrup (canned),12.0,45.0,5.0,4
+998,Ambrosia Devon Custard 425g,16.0,38.0,6.0,2
+999,Kelloggs All bran crunchy oat bakes,58.0,63.0,37.0,4
+1000,Whitworths Exotic Fruit Medley 300g,71.0,55.0,39.0,3
+1001,Yop Drinking Yogurt Strawberry ,14.0,46.0,6.0,3
+1002,Chicken Soup (Covent Garden),5.0,45.0,2.0,4
+1003,Shredded Wheat Bitesize,70.0,75.0,53.0,2
+1004,Greek style yoghurt. Tesco Healthly Living,8.0,36.0,3.0,3
+1005,Hovis best of both bread,41.0,72.0,30.0,3
+1006,Granola oat Quaker,73.0,63.0,46.0,4
+1007,Findus frozen macaroni cheese,16.0,45.0,7.0,4
+1008,Walkers Cheese and Onion crisps,50.0,54.0,27.0,2
+1009,Classic tuna sandwich-pret a manger,16.0,72.0,12.0,3
+1010,Pandoro Italian cake,48.0,63.0,30.0,4
+1011,Tropicana Ruby Breakfast,22.0,68.0,15.0,3
+1012,Ritz crackers,56.0,65.0,36.0,3
+1013,Cannellini beans in tomato sauce,10.0,48.0,5.0,3
+1014,Carrot and swede mash HL tesco,10.0,85.0,9.0,4
+1015,Roast Chicken Gravy-Schwartz,66.0,70.0,46.0,5
+1016,Tropicana Original,9.0,68.0,6.0,2
+1017,Danone actimel multifruit drink,16.0,46.0,7.0,2
+1018,Geobar  chocolate & raisin ,82.0,45.0,37.0,4
+1019,Danone activia fig yogurt,13.0,46.0,6.0,2
+1020,Tesco chrunchy oat cereal with tropical fruits,65.0,77.0,50.0,3
+1021,Kingsmill 50/50 bread,41.0,72.0,30.0,3
+1022,Tesco Basmati rice,77.0,43.0,33.0,1
+1023,Tesco carmella ice-cream,33.0,61.0,20.0,3
+1024,Tesco special mixed vegetables,7.0,45.0,3.0,4
+1025,Waitrose Melton Mowbray Pork and Apple Pies,26.0,45.0,12.0,4
+1026,Branston Chilli & Ginger Relish,38.0,70.0,27.0,5
+1027,Tesco HL Morrocan spiced apricot dressing,9.0,70.0,6.0,5
+1028,Tesco Cornflakes,84.0,62.0,52.0,1
+1029,Tesco Finest Multigrain batchbread,43.0,80.0,34.0,1
+1030,T.High Juice Blackcurrant Squash,67.0,66.0,44.0,3
+1031,Nature valley granola bar,65.0,70.0,46.0,3
+1032,Milk Chocolate orange sandwich bars-Tesco,64.0,63.0,40.0,3
+1033,Colmans Chicken Fajita Mix,58.0,42.0,24.0,2
+1034,Rice dream original (rice milk),9.0,79.0,7.0,2
+1035,crab gizetin,10.0,70.0,7.0,5
+1036,Hummous S/W pret a manger,18.0,45.0,8.0,4
+1037,Apple and sultanas porridge oats,59.0,57.0,34.0,3
+1038,Tesco Brussels Pate,1.0,70.0,1.0,5
+1039,Tesco Grapefruit Juice,9.0,48.0,4.0,2
+1040,Tesco Choc Ice,27.0,45.0,12.0,4
+1041,Tesco Healthy Living Melba Toast,75.0,70.0,53.0,2
+1042,Tesco Healthy Living Thin Cut Oven Chips,18.0,75.0,14.0,3
+1043,Baked Beans Reduced Salt and Sugar. Sainsbury's,13.0,40.0,5.0,3
+1044,Tesco Fruit Sherbets,79.0,68.0,54.0,3
+1045,Red Leicester Cheese,1.0,34.0,0.0,3
+1046,Tesco own garlic and corriander naan bread,46.0,63.0,29.0,4
+1047,Tesco own milk chocolate digestive bars,62.0,63.0,39.0,4
+1048,Tesco white chocolate bar,56.0,44.0,25.0,2
+1049,Maryland Traditional Chocolate Chip Cookies,68.0,63.0,43.0,3
+1050,Chipolata Pork Sausage,5.0,70.0,4.0,5
+1051,Wrigleys sugar free chewing gum,63.0,70.0,44.0,5
+1052,Sharwoods Tikka Masala cooking sauce. 420g,11.0,70.0,8.0,5
+1053,M&S Butter mints with a real toffee centre,76.0,70.0,53.0,5
+1054,BGTY Sainsbury's egg and mayonnaise sandwich,24.0,72.0,17.0,3
+1055,Tesco Caramelised Onion and Roast Garlic Dip,4.0,70.0,3.0,5
+1056,Sainsburys Peppercorn Sauce,5.0,70.0,4.0,5
+1057,Birds Eye Steamfresh Vegetables and Rice Bag,17.0,45.0,8.0,4
+1058,Sainsburys Pork Sausages,9.0,70.0,6.0,5
+1059,Tesco Butter me up spread,1.0,70.0,1.0,5
+1060,ASDA tuna and sweetcorn sandwich ,18.0,72.0,13.0,3
+1061,McCain Rustic Oven Chips,26.0,75.0,20.0,3
+1062,Tesco BBQ Chicken Garlic and Herb Thighs,2.0,70.0,1.0,5
+1063,Organic Lentil and Winter Stew,14.0,45.0,6.0,4
+1064,Chicken Pakora,9.0,70.0,6.0,5
+1065,Cauliflower and potato bake,8.0,85.0,7.0,4
+1066,Ebly (bulgur wheat),70.0,46.0,32.0,2
+1067,Provamel Rice and Calcium Drink ,12.0,79.0,9.0,2
+1068,Sainsbury's Oriental Vegetable Stirfry,3.0,45.0,1.0,4
+1069,Sainsbury's Be Good To Yourself Ardennes Pate,3.0,70.0,2.0,5
+1070,Sainsbury's Thick & Creamy Yogurt. Summer Fruits,17.0,36.0,6.0,3
+1071,Tesco Rough Oatcakes,55.0,57.0,31.0,2
+1072,Tesco Seafood Linguine 400g,11.0,45.0,5.0,4
+1073,Batchelors Slim-A-Soup Minestrone,5.0,44.0,2.0,2
+1074,Bovril Paste Jar,1.0,70.0,1.0,5
+1075,Tesco tuna fishcakes,19.0,85.0,16.0,4
+1076,Sainsburys cherry and berry scones,48.0,92.0,44.0,3
+1077,Snack pack fruit and nut,24.0,15.0,4.0,2
+1078,sainsburys onion rings,57.0,45.0,26.0,4
+1079,Tesco high juice orange cordial,45.0,66.0,30.0,3
+1080,Batchelors Slim soup- chicken and mushroom,4.0,45.0,2.0,4
+1081,Roast chicken and bacon sandwich`,18.0,72.0,13.0,3
+1082,Tesco own naan bread,45.0,63.0,28.0,4
+1083,Tesco own chicken korma,7.0,53.0,4.0,3
+1084,tesco own pilau rice,33.0,63.0,21.0,4
+1085,tesco own bombay potatoes,10.0,85.0,9.0,4
+1086,Tesco Finest Mascarpone Pizza,18.0,51.0,9.0,3
+1087,Modifast Average,52.0,35.0,18.0,3
+1088,Kelloggs Coco Pops Straws,75.0,77.0,58.0,5
+1089,Mr Kipling Angel Slices ,59.0,42.0,25.0,3
+1090,Mr Kipling Chocolate Slices,50.0,38.0,19.0,3
+1091,Weetabix Weetos ,75.0,70.0,53.0,3
+1092,St Ivel Advance s/s milk with omega 3,5.0,34.0,2.0,3
+1093,Fusilli Pasta Twists,73.0,45.0,33.0,4
+1094,Cheese Puffs,51.0,78.0,40.0,3
+1095,Weetabix Oatibix,64.0,75.0,48.0,2
+1096,Skittles,92.0,78.0,72.0,3
+1097,Danone Bio Activia Peach,9.0,46.0,4.0,3
+1098,Nestle Honey Nut Cheerios,78.0,74.0,58.0,3
+1099,Tesco cherrylicious ice cream,35.0,61.0,21.0,3
+1100,Tesco stonebaked baguette,51.0,95.0,48.0,2
+1101,Billy Bear Sausage,7.0,70.0,5.0,5
+1102,Findus Beef Lasagne,12.0,35.0,4.0,2
+1103,Wholemeal Bagel,55.0,72.0,40.0,3
+1104,Linusit Flax Oil,11.0,70.0,8.0,5
+1105,Tesco Finest Scottish R/Berry Yoghurt,13.0,36.0,5.0,2
+1106,Tesco Finest Traditional Pork Sausages,4.0,70.0,3.0,5
+1107,Ginger beer,8.0,70.0,6.0,5
+1108,Battered Chicken Dippers,16.0,70.0,11.0,5
+1109,Chicken Burger,16.0,72.0,12.0,3
+1110,Eat Natural Gold Macadamia and Cranberry Bar,48.0,70.0,34.0,3
+1111,Dried Blueberries,84.0,70.0,59.0,5
+1112,rare roast beef and horseraddish sandwich,24.0,72.0,17.0,3
+1113,Ribena made up,12.0,66.0,8.0,3
+1114,Gravlax Salmon,3.0,70.0,2.0,5
+1115,Gravlax Sauce,14.0,70.0,10.0,5
+1116,Tesco Organic Sundried Tomato Houmous,5.0,6.0,0.0,2
+1117,Tesco bbq chicken pizza,29.0,51.0,15.0,3
+1118,Panini Rolls,45.0,72.0,32.0,3
+1119,Sun bites walkers,17.0,64.0,11.0,3
+1120,Tuna and cucumber baguette,33.0,72.0,24.0,3
+1121,Tesco Finest Steak Diane,3.0,70.0,2.0,5
+1122,Tesco Finest Exquisa Potatoes,17.0,85.0,14.0,4
+1123,Hotdogs,4.0,70.0,3.0,5
+1124,Tesco fresh cream raspberry turnover,27.0,63.0,17.0,4
+1125,Rogan Josh Sauce Healthy Living,5.0,70.0,4.0,5
+1126,Tesco Italian Mascarpone,4.0,70.0,3.0,5
+1127,Tesco seafood risotto,13.0,69.0,9.0,3
+1128,potato and cauliflower bake,8.0,85.0,7.0,4
+1129,Cranberry. Raisin and Almond Bar,67.0,70.0,47.0,3
+1130,Frikadellen,6.0,70.0,4.0,5
+1131,Kingsmill Love to toast orange marmalade,52.0,72.0,37.0,3
+1132,heart of palms,5.0,70.0,4.0,5
+1133,Ham and pineapple pizza,32.0,51.0,16.0,3
+1134,Chicken and Vegetable pie,35.0,45.0,16.0,4
+1135,Flora Omega 3 Plus,6.0,70.0,4.0,5
+1136,Hovis best of both,41.0,72.0,30.0,3
+1137,Whole Orange Squash,1.0,66.0,1.0,3
+1138,Cadbury's Dairy Milk (crunchy pudding),33.0,43.0,14.0,3
+1139,Fray Benson Mince beef and onion pie,14.0,45.0,6.0,4
+1140,Peperami,2.0,70.0,1.0,5
+1141,Tesco H/L Chicken with stuffing and roast potatoes,12.0,63.0,8.0,4
+1142,Tesco honey roast salmon with new potatoes,8.0,63.0,5.0,4
+1143,Tesco Cheese and Tomato Cappelleti,48.0,45.0,22.0,4
+1144,Yeo Valley Organic fat free yoghurt,8.0,35.0,3.0,3
+1145,Chicken Biryani and rice- tesco finest,15.0,45.0,7.0,4
+1146,Tesco Strawberry Pencils,83.0,78.0,65.0,3
+1147,Angel Delight (strawberry),68.0,45.0,31.0,4
+1148,Tesco soft scoop chocolate icecream,25.0,61.0,15.0,2
+1149,Mc Chicken Sandwich - McDonalds,25.0,72.0,18.0,3
+1150,Fruit Strings,72.0,78.0,56.0,3
+1151,Muller toffee hoops yoghurt,23.0,38.0,9.0,3
+1152,Strawberry and almond crunch (m&s)1910,61.0,46.0,28.0,3
+1153,Apple and cinamon flakes,83.0,70.0,58.0,3
+1154,Mr Kipling Bramley Apple Pies,54.0,63.0,34.0,4
+1155,Crispy Duck Pancakes,20.0,67.0,13.0,2
+1156,milk loaf,45.0,63.0,28.0,3
+1157,McDonalds Cheeseburger,26.0,72.0,19.0,3
+1158,McChicken Nuggets,17.0,46.0,8.0,3
+1159,Dairylea Lunchables Ham and cheese,26.0,70.0,18.0,5
+1160,Tesco Strawberry Iced Fingers,58.0,63.0,37.0,3
+1161,Nestle Fab Lollies,23.0,61.0,14.0,3
+1162,Cappuccino,10.0,34.0,3.0,3
+1163,Tuna Light Lunch,6.0,70.0,4.0,5
+1164,Tesco Lemon and Coriander Houmous,13.0,6.0,1.0,2
+1165,chicken caesar wrap,48.0,45.0,22.0,4
+1166,easy cook basmati rice,30.0,43.0,13.0,1
+1167,cooked couscous,38.0,65.0,25.0,2
+1168,Toffee apple (portion = 240g),62.0,63.0,39.0,3
+1169,Coffee latte,2.0,34.0,1.0,3
+1170,McDonalds Double Sausage & Egg McMuffin (220g),16.0,72.0,12.0,3
+1171,Ready Brek madeup with SS milk,3.0,34.0,1.0,3
+1172,Lemon tart (portion = 115g),15.0,45.0,7.0,4
+1173,Raspberry coulis,30.0,45.0,14.0,4
+1174,Salmon and cucumber sandwich (149g),7.0,72.0,5.0,3
+1175,Egg and bacon sandwich (Boots 179g),16.0,72.0,12.0,3
+1176,Vegetarian meatballs (Quorn based),2.0,45.0,1.0,4
+1177,Instant Whey protein. powder. Reflex,5.0,45.0,2.0,4
+1178,Batchelors Super noodles Sweet Thai Chilli (LF),22.0,47.0,10.0,2
+1179,M&S 99% FF Cous cous + chargrill veg,17.0,58.0,10.0,2
+1180,Muller light lemon cheesecake,10.0,45.0,5.0,4
+1181,Muller ligh sticky toffee pudding yogurt,10.0,38.0,4.0,4
+1182,Ryvita Goodness bar Apple & Sultana,13.0,70.0,9.0,1
+1183,Shape lasting satisfaction yogurt (with EFPs),9.0,38.0,3.0,4
+1184,Slimming World HiFi bar chocolate & orange,67.0,78.0,52.0,3
+1185,Slimming World HiFi bar Cranberry & yoghurt,67.0,78.0,52.0,3
+1186,Slimming World HiFi bar Toffee & Pecan,62.0,78.0,48.0,3
+1187,Slimming World HiFi bar Cheeky Cherry,63.0,78.0,49.0,3
+1188,Cranberry & Brie bagel bakes (Tesco),59.0,72.0,42.0,4
+1189,Cottage pie (Slimming World 35-001-01s),6.0,65.0,4.0,2
+1190,Lasagne (Slimming World 35-004-04s),9.0,28.0,3.0,2
+1191,Lasagne (Slimming World 35-001-03s),12.0,28.0,3.0,2
+1192,Mushroom Sauce (Slimming World 35-005-02s),8.0,45.0,4.0,4
+1193,Pasta & Mince (Slimming World 35-004-04s),9.0,52.0,5.0,3
+1194,Quorn & Vegetables (Slimming World 35-001-03f),10.0,45.0,5.0,4
+1195,Ratatouilli pasta melt (Slimming Wolrd 35-001-01s),14.0,28.0,4.0,3
+1196,Curry sauce (Slimming World 35-005-02s),9.0,45.0,4.0,4
+1197,Soup (Slimming World 35-004-07s),2.0,45.0,1.0,4
+1198,Stir-fry (Slimmimg World 35-001-04s),9.0,45.0,4.0,4
+1199,Classic Chicken Curry (Slimming World 35-003-03s),2.0,53.0,1.0,3
+1200,Sweet potato soup (Slimming World 35-005-02s),10.0,45.0,5.0,4
+1201,Tomato sauce (Slimming World 35-002-03s),10.0,45.0,5.0,4
+1202,Brocolli & Chees soup (Slimming World 35-008-02s),2.0,45.0,1.0,4
+1203,Carrot & Lentil soup (Slimming World 35-004-01s),10.0,44.0,4.0,4
+1204,Cheese & Veg. omelette (Slimming World 35-004-01s),2.0,34.0,1.0,4
+1205,Pea & Courgette soup (Slimmimg World 35-004-01s),12.0,45.0,5.0,4
+1206,Pasta quiche (Slimming World 35-004-01s),12.0,45.0,5.0,4
+1207,Quorn bolognase (Slimming World 35-004-01s),4.0,52.0,2.0,2
+1208,Veg. & bean casserole (Slimming World 35-004-01s),7.0,45.0,3.0,4
+1209,Syn-free chips - Slimming World,17.0,75.0,13.0,3
+1210,Syn-fre potato wedges - Slimming World,11.0,85.0,9.0,4
+1211,All-Bran Crunchy Oat Bakes (Kellogg's),58.0,61.0,35.0,3
+1212,Slimming World HiFi bar Apricot & White chocolate,64.0,78.0,50.0,3
+1213,Slimming World HiFi bar Mint Crunch,65.0,78.0,51.0,3
+1214,Slimming World HiFi bar Mince pie,63.0,78.0,49.0,3
+1215,Slimming World HiFi bar Rum & Raisin,64.0,78.0,50.0,3
+1216,Nescafe Cappuccino Skinny (sachet = 16g),56.8,43.0,24.0,4
+1217,Actimel probiotic yoghurt - Original,14.3,46.0,7.0,2
+1218,Actimel probiotic yoghurt - Orange,15.9,46.0,7.0,2
+1219,Actimel probiotic yoghurt - Original (0.1% fat),5.1,46.0,2.0,2
+1220,All-Bran Flakes Chocolate (Kellogg),65.0,42.0,27.0,2
+1221,Apple crumble Sainsburys,30.0,63.0,19.0,4
+1222,Fruit and Fibre Cereal bar,69.0,70.0,48.0,3
+1223,goji berries,21.0,45.0,9.0,4
+1224,snack a jacks cheese and chive,79.0,78.0,62.0,2
+1225,caramel snack a jacks,88.0,78.0,69.0,2
+1226,Quorn cottage pie,9.0,65.0,6.0,3
+1227,Ryvita multigrain,61.0,64.0,39.0,2
+1228,chocolate rice cake,56.0,89.0,50.0,3
+1229,Uncle Ben's Express Wolemeal rice and vegetables ,27.0,63.0,17.0,4
+1230,Oatibix,64.0,55.0,35.0,3
+1231,chocolate and orange truffle,22.0,45.0,10.0,4
+1232,smoked haddck and cheese sauce (m&s),6.0,45.0,3.0,4
+1233,quorn korma escalopes,20.0,45.0,9.0,4
